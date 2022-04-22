@@ -1,0 +1,389 @@
+
+ body {
+	 /* for every page */
+	font-family:Bookman, URW Bookman L, serif;
+	background-size:cover;
+	background-attachment:fixed;
+	background-image:url("sky.jfif");
+	
+ }
+  h1{
+	/*header*/
+	/*for login.php page */
+	/* admin menu*/
+	/* employer menu*/
+	/* for registercompany.php use */
+	/* for editcompany.php use */
+	/* */
+	/* */
+	color:black;
+	text-align:center;
+	font-size: 45px;
+	margin-top:0px;
+ } 
+ .Tcenter {
+	 /*used in search*/
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  .exit{
+	  /* return to menu*/
+	  /*for registercompany.php use */
+	  /**/
+	  /**/
+	font-style:italic;
+	Font-size:24px;
+ }
+ .cbox{
+	 /* for login.php page*/
+	position: abosolute;
+	margin: 10% auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 450px;
+	border-style:groove;
+	border-color:#c7089a;
+	border-radius:10px;
+	padding:5px, 5px, 5px,;
+}
+ .Appbox{
+	 /* for login.php page*/
+	position: abosolute;
+	margin: 10% auto;
+	margin-top: 15%;
+	width: 500px;
+	height: 450px;
+	border-style:groove;
+	border-color:#c7089a;
+	border-radius:10px;
+	padding:5px, 5px, 5px,;
+}
+ 
+ .menubox{
+	 /* For Admin menu box*/
+	 /* For employer menu box*/
+	position: abosolute;
+	margin: 10% auto;
+	margin-top: 10%;
+	width: 500px;
+	height: 450px;
+	border-style:groove;
+	border-color:#c7089a;
+	border-radius:10px;
+	padding:5px, 5px, 5px,;
+	
+ }
+ .menutext{
+	  /* For Admin menu inside box*/
+	position: relative;
+	text-align: center;
+	font-size: 20px;
+	padding:0;
+	color:black;
+}
+ .menubox2{
+	  /*for registercompany.php uses */
+	  /*for editcompany.php uses */
+	position: abosolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150;
+	width: 770px;
+	height:560px;
+	border-style:groove;
+	border-color:#c7089a;
+	border-radius:10px;
+	padding:5px, 5px, 5px,;
+	text-align:center;
+ }
+.menubox3 {
+	/*for registercompany.php uses */
+	/*for editcompany.php uses */
+	/*for signup.php uses */
+	position: abosolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150;
+	width: 700px;
+	height: 350px;
+	border-style: groove;
+	border-color: #c7089a;
+	border-radius: 10px;
+	padding: 5px, 5px, 5px,;
+	text-align: center;
+}
+
+  .menutext1{
+	  /*for registercompany.php use */
+	  /*for editcompany.php use */
+	font-size: 20px;
+	margin-left:2.5%;
+	color:black; 
+ }
+.ctext {
+	text-align: center;
+}
+ .menubox4{
+	  /*for registerempoyer.php use */
+	position: abosolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150;
+	width: 740px;
+	height:65%;
+	border-style:groove;
+	border-color:#c7089a;
+	border-radius:10px;
+	padding:5px, 5px, 5px,;
+	text-align:center;
+	
+ }
+.Sbox {
+	/*for search.php use */
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100;
+	padding-top: 5%;
+	font-size: 16px;
+	text-align: center;
+	width: 850px;
+	height: 80%;
+	border-style: groove;
+	border-color: #c7089a;
+	border-radius: 10px;
+}
+.SBotton{
+
+	position: absolute;
+	width: 5%;
+	padding:10px;
+	background:Transparent;
+	color: black;
+	font-size: 17px;
+	border: 1px solid #c7089a;
+	border-left: none;
+	border-radius:3px;
+	cursor: pointer;
+	justify-content:center;
+
+
+
+	
+}
+ .signbox{
+	 /*postjob.php box*/
+	 /**/
+	 /**/
+	position: abosolute;
+	margin: 10% auto;
+	width: 800px;
+	height: 700px;
+	border-style:groove;
+	border-color:#c7089a;
+	border-radius:10px;
+	padding:5px, 5px, 5px,;
+	
+	
+ }
+.searchbar{
+	/*search bar in search.php*/
+	position:abosolute;
+	top:50%;
+	left:50%;
+	/*transform:translate(-20%,-2s0%);*/
+	background:Transparent;
+	width:500px;
+	height:40px;
+	border:1px solid #c7089a ; 
+	border-radius: 5px;
+	padding:10px;
+	
+	
+}
+ .mbttn{
+	background-color: Transparent;
+	border:1px solid #c7089a ; 
+	border-radius: 5px;
+	color: black;
+    padding: 5px 100px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 1px;
+	top: 10px;
+ 	position: relative;
+	left: 8px;
+ }
+ h3{
+
+	color:black;
+	text-align:center;
+	font-size: 24px;
+	margin-top:0px;
+ }
+ 
+ 
+ 
+ .loginmsg{
+	 margin-top:10x;
+	 text-align: center;
+	 font-size: 35px;
+	 color: red;
+ }
+  
+ .button{
+	background-color: Transparent;
+	border:1px solid #c7089a ; 
+	border-radius: 5px;
+	color: black;
+    padding: 5px 150px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 30px;
+	
+	
+    cursor: pointer;
+	left: 10px;
+	
+ }
+ .mbutton{
+	background-color: Transparent;
+	border:1px solid #c7089a ; 
+	border-radius: 5px;
+	color: black;
+    padding: 5px 100px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 1px;
+	position: relative;
+	left: 135px;
+ } 
+ .Histbtton{
+	background-color: Transparent;
+	border:2px groove #c7089a; 
+	border-radius:5px;
+	color: black;
+    padding: 5px 50px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 1px;
+	position: relative;
+	left: 50px;
+ }
+ .button1:hover{
+	background-color: #c7089a; 
+	color: white;
+ 
+ }
+a:link {
+  color: #black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c7089a;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+ .in_field{
+	width:70%;
+	padding:10px 0;
+	
+	border-top: 0;
+	border-right:0;
+	border-left: 0;
+	border-bottom:2px groove #c7089a;
+	outline:none;
+	background:transparent;
+	text-align:center;
+	margin-left:15%
+	
+ }
+ .sfield{
+	
+	padding:5px 0;
+	margin: 4px 20px;
+	border-top: 0;
+	border-right:2px groove #c7089a;
+	border-left: 2px groove #c7089a;
+	border-bottom:2px groove #c7089a;
+	outline:none;
+	background:transparent;
+	text-align:center;
+	
+ }
+ .text_field{
+	width:200px;
+	padding:10px 0;
+	
+	border-top: 0;
+	border-right:0;
+	border-left: 0;
+	border-bottom:2px groove #c7089a;
+	outline:none;
+	background:transparent;
+	text-align:center;
+	margin-left:0.5%
+	
+ }
+ .Long_field{
+	padding:10px 0;
+	border-top: 0;
+	border-right:0;
+	border-left: 0;
+	border-bottom:2px groove #c7089a;
+	outline:none;
+	background:transparent;
+	text-align:center;
+	margin-left:0.5%
+	
+ }
+ 
+ /*button for update pages*/
+ .mbottn{
+	background-color: Transparent;
+	border:1px solid #c7089a ; 
+	border-radius: 5px;
+	color: black;
+    padding: 5px 100px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 1px;
+	top: 10px;
+ 	position: relative;
+	left: 1%;
+ }
+
+p{
+  text-align: center;
+  font-size: 20px;
+  padding:0;
+	  
+ }
+
+p.h2{background-color:#f013bc; 
+text-align:center;
+color:Black; 
+Font-size:200%;
+font-family:Arial,monospace;}
+
+.eduhead{text-align:center; font-size: 30px; text-decoration: underline;}
+
+.eduold{text-align:center; font-size: 25px; text-decoration: underline; text-decoration-style: wavy;}
+.content{
+  width: 750px;
+  margin: auto;
+  font-size: 16px; 
+  text-align:center;
+ 
+}
