@@ -1,7 +1,9 @@
 # Job Seeker Full-Stack Website
 
 This is a semester long class project. I was working in a group of 2. This website is a job seeker website which has 3 types of users (JOB SEEKER, EMPLOYER and ADMIN).
-ADMIN is able to register a company and assign the employer of the company based on the data in database. EMPLOYER has 2 function which is posting a new job and check all the applicants. EMPLOYER and ADMIN are only created manually in the database. You can only sign up as a JOB SEEKER. After signing up, JOB SEEKER can log in and look for a job being posted in the database with some functions (search by keyword,sort jobs by salary, alphabetically,etc.)
+ADMIN is able to register a company and assign the employer of the company based on the data in database. EMPLOYER has 2 function which is posting a new job and check all the applicants. EMPLOYER and ADMIN are only created manually in the database. You can only sign up as a JOB SEEKER. After signing up, JOB SEEKER can log in and look for a job being posted in the database with some functions (search by keyword,sort jobs by salary, alphabetically,etc.). 
+
+The website runs on WAMP server
 
 # This project is to learn : 
 Basic HTML/CSS, cookie, authentication    
